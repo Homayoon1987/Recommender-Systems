@@ -1,2 +1,3 @@
-# Recommender-Systems
-Python Codes for Different Recommender Systems
+Examples are based on a python package called surprise.
+
+http://surpriselib.com/
